@@ -10,9 +10,9 @@
 
 > Para actualizar nuevos cambios:
 
-▲ git add .
-▲ git commit -m "Descripcion del commit".  
-▲ git push origin main
+▲ git add .  
+▲ git commit -m "Descripcion del commit"  
+▲ git push origin main  
 
 > y para actualizar el repositorio se pone:
 
